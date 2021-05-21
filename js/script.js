@@ -7,7 +7,7 @@ $(function(){
 
       // 初期設定：移動時間(ms)と頭出し位置
       var speed = 500;
-      var offset = -160;
+      var offset = 230;
 
       // アンカーを取得
       var anchor = $(this).attr("href");
