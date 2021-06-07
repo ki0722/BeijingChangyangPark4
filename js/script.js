@@ -1,3 +1,20 @@
+
+
+$(function(){
+
+  $(".menu").hide();
+
+  $(".navButton").click( function(){
+    $(".navButton").toggleClass('isOpen');
+    $(".menu").slideToggle();
+  });
+
+});
+
+
+
+
+
 // Smooth Scrool Sample
 // jQuery v1.9以降
 
