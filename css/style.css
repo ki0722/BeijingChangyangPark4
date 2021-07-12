@@ -27,6 +27,29 @@ header img {
   width:60px;
 }
 
+
+#VIDEO  {
+  width:80%
+  margin:auto;
+  }
+
+article#VIDEO  {
+  width:95%;
+  padding: 5%;
+  text-align: justify;
+  font-size: 0.85rem;
+ }
+
+ article#VIDEO video {
+  width: 100%;
+  }
+
+
+
+
+
+
+
 header h1{
   position: absolute;
   top: 2.75rem;
