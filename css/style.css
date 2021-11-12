@@ -27,14 +27,17 @@ header img {
   width:60px;
 }
 
-
+/*
 #VIDEO  {
   width:80%
   margin:auto;
   }
+*/
 
 article#VIDEO  {
-  width:95%;
+  width: 75%;
+  max-width: 640px;
+  margin: auto;
   padding: 5%;
   text-align: justify;
   font-size: 0.85rem;
