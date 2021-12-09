@@ -15,7 +15,7 @@ header{
   left: 0;
   width: 100%;
   min-width: 600px;
-  height: 6rem;
+  height: 7rem;
   background-color: #ffb3a7;
   box-shadow: 0 3px 0.5rem rgba(0,0,0,.4);
   z-index: 999;
@@ -24,7 +24,7 @@ header{
 header img {
   position: absolute;
   top: 2rem;
-  left:120px;
+  left:200px;
   width:60px;
 }
 
@@ -56,8 +56,8 @@ article#VIDEO  {
 
 header h1{
   position: absolute;
-  top: 20px;
-  left:190px;
+  top: 25px;
+  left:270px;
   font-size: 1.5rem;
   color: white;
 }
@@ -116,7 +116,7 @@ nav ul {
 
 nav ul li{
   margin-left: 1.5rem;
-  font-size: 0.85rem;
+  font-size: 1.5rem;
 }
 
 nav a{
